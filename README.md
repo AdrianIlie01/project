@@ -1,9 +1,6 @@
 # backend-api </br>
 ### nodeJS nestJS </br>
 
-in your terminal go to your project in: </br>
-backend-api </br>
-cd backend-api </br> <br>
 npm install </br>
 docker compose up </br>
 npm run start:dev </br>
